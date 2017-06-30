@@ -1,0 +1,105 @@
+header{
+background-color: #000000;
+background-size:200px;
+font-size: 20px;
+padding: 20px;
+margin: 10px;
+}
+
+#col{
+	color: #ff55c2;
+}
+
+body{
+    background: #EBEBEB;
+    font-family: 'open sans', sans-serif;
+    font-weight: 300;
+    color: #000000;
+    font-size: 15px;
+    line-height: 1.6em;
+}
+
+ .wrapper{
+background-image: url('../images/coworking.jpg');
+height: 750px;
+background-size:cover;
+/*padding-top: 0px;*/
+text-align: center;
+letter-spacing: 2px;
+background-position: -1px 0px;
+ }
+ .menu{
+ 	display: block;
+    
+ }
+
+.menu a{
+    padding-left: 0;
+
+}
+.banner{
+	text-align: center;
+	size: 15px;
+padding: 10px;
+margin: -5px;
+}
+.container-fluid banner{
+	padding: 25px;
+}
+ .btn-pink {
+    font-weight: 100;
+    border: 1px solid rgba(255,255,255,0.3);
+    text-transform: capitalize;
+    width: 223px;
+position: relative;
+top: 5px;
+color: #000000;
+font-size: -343px;
+background-color: #ff55c2;
+  }
+  #text-center{
+    color:rgb(0,0,0); 
+      width: 350px;
+      height: 350px;
+       background: rgba(255,255,255,0.5);
+      position: relative;
+     top: 376px;
+}
+
+#left-container{
+  width: 35%;
+  float: right;
+}
+  }
+  .style{
+  	size: 15px;
+  	color: #ff55c2;
+  }
+  .btn-primary {
+    font-weight: 100;
+    border: 1px solid rgba(255,255,255,0.3);
+    width: 253px;
+position: relative;
+top: 30px;
+color: #000000;
+font-size: -343px;
+background-color: #c6c6c6;
+
+}
+.card{
+	 font-size: 15px;
+    padding:20px;
+    margin: 5px 5px 5px 5px;
+    text-align: center;
+}
+.col-md-9 {
+    width: 75%;
+    float: right;
+}
+footer{
+background-color: #000000;
+background-size:200px;
+font-size: 20px;
+padding: 20px;
+margin: 10px;
+}
